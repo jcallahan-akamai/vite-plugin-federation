@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>This is the Remote App</h2>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
